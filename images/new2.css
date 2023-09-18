@@ -1,0 +1,9 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #10181a;
+}
+.image{
+    width: 100%;
+    height: 700px;
+}
